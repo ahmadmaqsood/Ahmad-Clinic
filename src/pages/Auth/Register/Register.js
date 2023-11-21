@@ -82,7 +82,7 @@ export default function Register() {
                 </div>
 
                 <div>
-                  <p className="mb-0">Already have an account? <Link href="#!" className="text-white-50 fw-bold">Sign In</Link>
+                  <p className="mb-0">Already have an account? <Link to="/auth/login" className="text-white-50 fw-bold">Sign In</Link>
                   </p>
                 </div>
               </div>
